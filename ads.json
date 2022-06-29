@@ -1,0 +1,21 @@
+{
+  "Ads": [
+    {
+      "pengaturan_iklan": "0",
+      "admob_banner": "https://",
+      "admob_inter":"",
+      "admob_reward":"",
+      "admob_native":"",
+      "admob_openads":"",
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_reward":"",
+      "startappid":"",
+      "applovin_banner":"",
+      "applovin_inter":"",
+      "applovin_reward":""
+
+    }
+  ]
+}
+
